@@ -9,5 +9,28 @@ Uses Years of Experience as the feature (independent variable).
        * Model training using simple linear regression.
        * Model evaluation and visualization of results.
        * Salary prediction for custom input values.
+## Dataset
+The dataset used in this project contains two columns:
+1 Years of Experience: The number of years a person has worked.
+2 Salary: The corresponding salary for each individual.
+## Requirements
+The following Python libraries are required to run the project:
+* numpy
+* pandas
+* matplotlib
+* scikit-learn
+# Implementation
+Steps:
+* Load the dataset:
+Import and read the dataset using Pandas.
+* Model training:
+Train a Simple Linear Regression model using the scikit-learn library.
+* Data visualization:
+Use Matplotlib to create scatter plots of Years of Experience vs. Salary.
+* Results visualization:
+Plot the regression line along with the data points.
+* Prediction:
+Allow users to input years of experience and predict the corresponding salary.
+
 
 
