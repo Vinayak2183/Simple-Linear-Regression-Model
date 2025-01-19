@@ -5,9 +5,9 @@ This project demonstrates the implementation of a Simple Linear Regression model
 Uses Years of Experience as the feature (independent variable).
 * Salary as the label (dependent variable).
 * End-to-end machine learning workflow:
-** Data preprocessing and visualization.
-** Model training using simple linear regression.
-** Model evaluation and visualization of results.
-** Salary prediction for custom input values.
+       * Data preprocessing
+       * Model training using simple linear regression.
+       * Model evaluation and visualization of results.
+       * Salary prediction for custom input values.
 
 
